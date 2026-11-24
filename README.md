@@ -1,5 +1,5 @@
-[code_artifact.html](https://github.com/user-attachments/files/35329319/code_artifact.html)
-# minigame<!DOCTYPE html>
+[code_artifact.html](https://github.com/user-attachments/files/35329399/code_artifact.html)
+<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
